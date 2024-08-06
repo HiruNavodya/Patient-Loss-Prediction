@@ -1,5 +1,5 @@
 # Patient-Loss-Prediction
-
+The project aimed to develop a predictive model for patient outcomes following surgery using advanced machine learning techniques. The primary objective was to accurately predict whether patients would survive or not after undergoing surgical procedures. The study tackled the challenge of an imbalanced dataset by applying various sampling methods, including Under Sampling, Over Sampling, and Synthetic Minority Oversampling Technique (SMOTE), with SMOTE proving most effective in minimizing misclassification rates. The analysis involved using K-Nearest Neighbors (KNN) with optimal parameter tuning, Probabilistic Neural Networks (PNN) for probabilistic predictions, and Classification Trees to identify significant predictors. Additionally, Random Forests were employed for ensemble learning, achieving the lowest classification error with an optimal number of trees. The project highlighted the importance of variables such as surgical treatment, complications, and patient demographics in predicting outcomes and demonstrated the effectiveness of advanced machine learning methods in enhancing prediction accuracy and supporting improved patient care decisions.
 
 # Link to the presentations
 
